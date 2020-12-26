@@ -1,10 +1,11 @@
 # About this repo
 This is a repo for my reading notes + reflections. \
 It could be in English or Chinese, depends on my mood :). \
-I will use [markmap](https://markmap.js.org/) (markdown + mindmap) to construct the notes. To visualize the mindmap, copy paste the markdown to [this](https://markmap.js.org/repl) page to render the hierarchical tree. \
+I will use [markmap](https://markmap.js.org/) (markdown + mindmap) to construct the notes. To visualize the mindmap, copy paste the markdown to [this](https://markmap.js.org/repl) page to render the hierarchical tree. 
 
 
-# Some summarys ( last updated on 12/25/2020)
+# Some summarys
+( last updated on 12/25/2020)
 
 ## General Topic Reading Notes:
 ### Title
