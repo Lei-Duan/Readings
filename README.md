@@ -12,7 +12,7 @@ I will use [markmap](https://markmap.js.org/) (markdown + mindmap) to construct 
 Only making notes on your interested topic. Otherwise, it's a waste of time and friction for your reading practice.
 ### Subtitle
 Original subtitle and good sentences. \
-Relate the contents to one of a practical question and try to answer it. If you can't answer this question, then google it and add it as side note.(maybe you can find a related book :) ). \
+Relate the contents to one of a practical question and try to answer it. If you can't answer this question, then google it and add it as side note.(maybe you can find a related book ).
 ### Final reflections
 Optional, but only thinking triggers internalization. 
 
